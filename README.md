@@ -16,4 +16,5 @@ neat bookmarks from around the web
 ## other
 
   - [ethical.net/resources](https://ethical.net/resources/ "https://ethical.net/resources/"): huge repository of ethical alternatives to mainstream stuff
+  - [intravert.co](https://intravert.co/ "https://intravert.co/"): monetize your community through privacy-preserving and ethical ad spaces
 
