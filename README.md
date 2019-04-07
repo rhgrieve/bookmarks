@@ -1,5 +1,5 @@
 # :rocket: bookmarks
-neat bookmarks from around the web
+useful things from around the web
 
 ## design
   - [checklist.design](https://www.checklist.design/ "https://www.checklist.design/"): a collection of the best UX and UI practices.
