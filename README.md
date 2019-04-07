@@ -12,3 +12,7 @@ Random bookmarks from around the web
 
 ## backend
 
+## other
+
+  - [ethical.net/resources](https://ethical.net/resources/): Huge repository of ethical alternatives to mainstream stuff
+
