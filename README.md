@@ -4,6 +4,7 @@ useful things from around the web
 ## design
   - [checklist.design](https://www.checklist.design/ "https://www.checklist.design/"): a collection of the best UX and UI practices.
   - [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/ "https://www.webfx.com/tools/emoji-cheat-sheet/"): list of emoji with markdown codes
+  - [hatchful](https://hatchful.shopify.com/ "https://hatchful.shopify.com/"): create stunning logos in seconds
   
 ## productivity 
 
