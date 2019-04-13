@@ -14,6 +14,8 @@ useful things from around the web
 
 ## backend
 
+  - [learn you a haskell](http://learnyouahaskell.com/chapters): the funkiest way to learn Haskell
+
 ## other
 
   - [ethical.net/resources](https://ethical.net/resources/ "https://ethical.net/resources/"): huge repository of ethical alternatives to mainstream stuff
